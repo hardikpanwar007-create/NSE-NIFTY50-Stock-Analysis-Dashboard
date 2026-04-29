@@ -51,16 +51,16 @@
 
 ## Dashboard Pages
 
-**Page 1 — Overview**
+**Page 1 - Overview**
 KPI cards, sector slicer, avg CAGR by sector bar chart, full stock summary table
 
-**Page 2 — Return Analysis**
+**Page 2 - Return Analysis**
 CAGR ranked bar chart + risk-return scatter plot (CAGR vs Volatility, colour coded by sector)
 
-**Page 3 — Risk Analysis**
+**Page 3 - Risk Analysis**
 Sharpe ratio ranking, Sharpe vs Volatility scatter, CV treemap, volatility band stacked bar
 
-**Page 4 — Sector Breakdown**
+**Page 4 - Sector Breakdown**
 Total sectors, Best & Worst sector analysis, Sector Treemap
 
 ---
