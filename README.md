@@ -22,12 +22,12 @@
 |---|---|
 | CAGR (%) | Compound Annual Growth Rate using log returns |
 | Annual Volatility (%) | Std dev of daily returns × √252 |
-| Sharpe Ratio | (CAGR − 6.5% risk-free rate) / Volatility |
-| Coefficient of Variation | Volatility / CAGR — benchmark-free risk metric |
+| Sharpe Ratio | (CAGR - 6.5% risk-free rate) / Volatility |
+| Coefficient of Variation | Volatility / CAGR - benchmark free risk metric |
 | Positive Days (%) | % of trading days stock closed higher than previous day |
 | 52W High Distance (%) | How far current price is below 52-week high |
 | 52W Low Distance (%) | How far current price is above 52-week low |
-| Avg Daily Volume | Average shares traded per day — liquidity proxy |
+| Avg Daily Volume | Average shares traded per day - liquidity proxy |
 | Current Price (₹) | Latest available closing price |
 
 **Risk-free rate used:** 6.5% (Indian 10Y Government Bond yield proxy, 2024)
