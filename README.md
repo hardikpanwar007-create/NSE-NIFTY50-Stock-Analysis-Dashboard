@@ -1,21 +1,6 @@
 # NIFTY50 Stock Analysis Dashboard
 **21 Years · 62 Stocks · 18 Sectors · NSE India (2003–2024)**
 
----
-
-## Project Structure
-
-```
-nifty50-analysis/
-│
-├── nifty50_analysis.py       # Main Python script — data collection + metrics
-├── nifty50_analysis.xlsx     # Output Excel file (3 sheets)
-│   ├── Stock Metrics         # 62 stocks × 11 financial metrics
-│   ├── Correlation           # Long-format correlation matrix
-│   └── Price History         # Weekly indexed prices (long format)
-├── NIFTY50_Dashboard.pbix    # Power BI dashboard file
-└── README.md
-```
 
 ---
 
